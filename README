@@ -75,6 +75,8 @@ To avoid a long list of command line arguments,
 CACTI 6.5 & & let users specify their cache model in a more 
 detailed manner by using a config file (cache.cfg).
 
+Use makefile to create object files
+
 -> define the cache model using cache.cfg
 -> run the "cacti" binary <./cacti -infile cache.cfg>
 
